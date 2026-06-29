@@ -685,11 +685,6 @@
     "source": "manual"
   },
   {
-    "car_id": 620,
-    "added_at": "2026-05-31T20:10:09Z",
-    "source": "telemetry"
-  },
-  {
     "car_id": 64,
     "added_at": "2026-05-31T20:30:18Z",
     "source": "telemetry"
@@ -1612,6 +1607,96 @@
   {
     "car_id": 633,
     "added_at": "2026-06-11T04:48:53Z",
+    "source": "manual"
+  },
+  {
+    "car_id": 504,
+    "added_at": "2026-06-11T20:09:56Z",
+    "source": "manual"
+  },
+  {
+    "car_id": 319,
+    "added_at": "2026-06-12T21:38:00Z",
+    "source": "manual"
+  },
+  {
+    "car_id": 620,
+    "added_at": "2026-06-13T07:09:13Z",
+    "source": "manual"
+  },
+  {
+    "car_id": 173,
+    "added_at": "2026-06-14T22:47:30Z",
+    "source": "manual"
+  },
+  {
+    "car_id": 156,
+    "added_at": "2026-06-14T22:47:47Z",
+    "source": "manual"
+  },
+  {
+    "car_id": 158,
+    "added_at": "2026-06-14T22:48:19Z",
+    "source": "manual"
+  },
+  {
+    "car_id": 80,
+    "added_at": "2026-06-14T22:49:37Z",
+    "source": "manual"
+  },
+  {
+    "car_id": 618,
+    "added_at": "2026-06-14T22:49:56Z",
+    "source": "manual"
+  },
+  {
+    "car_id": 606,
+    "added_at": "2026-06-14T22:50:14Z",
+    "source": "manual"
+  },
+  {
+    "car_id": 332,
+    "added_at": "2026-06-14T23:29:09Z",
+    "source": "manual"
+  },
+  {
+    "car_id": 577,
+    "added_at": "2026-06-15T00:00:40Z",
+    "source": "manual"
+  },
+  {
+    "car_id": 162,
+    "added_at": "2026-06-15T00:11:50Z",
+    "source": "manual"
+  },
+  {
+    "car_id": 169,
+    "added_at": "2026-06-15T00:12:45Z",
+    "source": "manual"
+  },
+  {
+    "car_id": 385,
+    "added_at": "2026-06-15T00:18:36Z",
+    "source": "manual"
+  },
+  {
+    "car_id": 56,
+    "added_at": "2026-06-16T01:47:45Z",
+    "source": "manual"
+  },
+  {
+    "car_id": 172,
+    "added_at": "2026-06-17T00:59:43Z",
+    "source": "manual"
+  },
+  {
+    "car_id": 166,
+    "added_at": "2026-06-17T21:32:45Z",
+    "source": "manual"
+  },
+  {
+    "car_id": 177,
+    "added_at": "2026-06-17T21:36:53Z",
     "source": "manual"
   }
 ]

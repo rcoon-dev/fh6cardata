@@ -3952,7 +3952,8 @@
       "braking": 9.1,
       "offroad": 4.8
     },
-    "image_url": "https://static.wikia.nocookie.net/forzamotorsport/images/b/b2/FH6_Ferrari_LaFerrari.png/revision/latest/scale-to-width-down/320"
+    "image_url": "https://static.wikia.nocookie.net/forzamotorsport/images/b/b2/FH6_Ferrari_LaFerrari.png/revision/latest/scale-to-width-down/320",
+    "carordinalid": 2034
   },
   {
     "id": 167,
@@ -4093,7 +4094,8 @@
       "braking": 10.0,
       "offroad": 4.9
     },
-    "image_url": "https://static.wikia.nocookie.net/forzamotorsport/images/1/1d/FH6_Ferrari_FXX.png/revision/latest/scale-to-width-down/320"
+    "image_url": "https://static.wikia.nocookie.net/forzamotorsport/images/1/1d/FH6_Ferrari_FXX.png/revision/latest/scale-to-width-down/320",
+    "carordinalid": 1006
   },
   {
     "id": 173,
@@ -4209,7 +4211,8 @@
       "braking": 4.5,
       "offroad": 5.1
     },
-    "image_url": "https://static.wikia.nocookie.net/forzamotorsport/images/2/24/FH6_Ferrari_512_TR.png/revision/latest/scale-to-width-down/320"
+    "image_url": "https://static.wikia.nocookie.net/forzamotorsport/images/2/24/FH6_Ferrari_512_TR.png/revision/latest/scale-to-width-down/320",
+    "carordinalid": 255
   },
   {
     "id": 178,
